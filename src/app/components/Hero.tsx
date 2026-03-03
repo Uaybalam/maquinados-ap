@@ -1,4 +1,4 @@
-import logoImg from "figma:asset/e6ebeaf4ca89d730d002324967e403de4db30599.png";
+import logoImg from "../../assets/logo.png";
 
 const cncImage = "https://images.unsplash.com/photo-1645754884761-6ada0d53807b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxDTkMlMjBtYWNoaW5pbmclMjBpbmR1c3RyaWFsJTIwcHJlY2lzaW9uJTIwcGFydHN8ZW58MXx8fHwxNzcyMjQ2Nzk2fDA&ixlib=rb-4.1.0&q=80&w=1080";
 

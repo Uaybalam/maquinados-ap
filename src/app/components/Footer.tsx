@@ -1,4 +1,4 @@
-import logoImg from "figma:asset/e6ebeaf4ca89d730d002324967e403de4db30599.png";
+import logoImg from "../../assets/logo.png";
 
 const services = [
   "Maquinado CNC",
